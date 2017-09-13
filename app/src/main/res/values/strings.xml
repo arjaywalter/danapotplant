@@ -96,4 +96,12 @@
     <string name="title_activity_tabbed">TabbedActivity</string>
     <string name="section_format">Hello World from section: %1$d</string>
     <string name="membership">Membership</string>
+    <string name="about">About</string>
+    <string name="about_text">Hi, I\'m Dana, a pot plant. I love to pot plant myself in a pot. It is a very refreshing feeling. We will really work well together!</string>
+    <string name="my_skills">My Skills</string>
+    <string name="my_exams">My Exams</string>
+    <string name="add_more_skill">Add more skill (5/250)</string>
+    <string name="take_more_class">Take more class</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="freelancer_empty_view">Freelancer Empty view</string>
 </resources>

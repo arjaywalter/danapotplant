@@ -11,7 +11,7 @@ public class Exam {
     @SerializedName("name")
     private String mName;
     @SerializedName("progress")
-    private Long mProgress;
+    private int mProgress;
 
     public String getName() {
         return mName;
@@ -21,11 +21,11 @@ public class Exam {
         mName = name;
     }
 
-    public Long getProgress() {
+    public int getProgress() {
         return mProgress;
     }
 
-    public void setProgress(Long progress) {
+    public void setProgress(int progress) {
         mProgress = progress;
     }
 
